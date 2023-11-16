@@ -1,0 +1,17 @@
+1. backend endpoints for adding project 
+
+2. crud with postman
+
+3. project description
+    a. name
+    b. github link
+    c. live view link
+    d. short description
+    e. picture link
+    f. category
+
+4. save endpoints data in a json file
+
+5. extract the data from json file
+
+6. show it in the frontend
